@@ -1,4 +1,4 @@
-package com.arizeet.SpringSecurity;
+package com.arizeet.SpringSecurity.model;
 
 public class Student {
 
